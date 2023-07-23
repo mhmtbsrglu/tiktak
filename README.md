@@ -1,27 +1,38 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="right" style="color:red;">tiktak clone ℹ️</h3>
 
-Currently, two official plugins are available:
+<h3 align="right"><a href="https://tiktakkiralaclone.netlify.app/"> İnternet Adresi 🔗</a></h3>
+  <h3 align="">Şunlarla Yapıldı</h3>
+  
+  <p align="">
+  <img src="https://img.shields.io/badge/React-f6f7fb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-f6f7fb?style=for-the-badge&logo=vite&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-f6f7fb?style=for-the-badge&logo=css3&logoColor=black"/>
+ </p>
+ <p align="">
+ 
+  <img src="https://img.shields.io/badge/Tailwind-f6f7fb?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+   <img src="https://img.shields.io/badge/TavaScript-f6f7fb?style=for-the-badge&logo=typescript&logoColor=black"/>
+  </p>
+  
+ <h3 align="">Iphone ve diğer Telefonlar </h3>
+ 
+ <p align="">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <img src="https://github.com/mhmtbsrglu/tiktak/assets/99546413/8e1c12f4-7e06-4692-a281-43095b0a7109" style="width:10rem" />
 
-## Expanding the ESLint configuration
+ </p>
+ 
+  <h3 align="">Masaüstü ve Tablet</h3>
+ 
+ <p align="">
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+ <img src="https://github.com/mhmtbsrglu/tiktak/assets/99546413/dae9cb3a-c625-4084-9e80-d22d729adcc3" style="width:20rem" />
+
+ </p>
+
+   <h3 align="">Installation</h3>
+   git clone https://github.com/mhmtbsrglu/tiktak.git && yarn install && yarn dev
