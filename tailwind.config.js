@@ -12,6 +12,9 @@ export default {
         primary: {
           DEFAULT: "#e62154",
         },
+        light: {
+          DEFAULT:"#f6f7fa"
+        }
       },
       container: {
         center: true,
