@@ -1,7 +1,6 @@
 import logo from "@assets/logo.png";
 import AccordionMenu from "../AccordionMenu/AccordionMenu";
 import { RiMenu3Fill } from "react-icons/ri";
-import { Dispatch, SetStateAction } from "react";
 
 type Props = {};
 
